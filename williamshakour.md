@@ -24,9 +24,8 @@ I have worked on many projects mostly related to games and occasionally web proj
 ### 2013-2015 [Reflection.io](http://www.reflection.io) - CTO and co-Founder
 Architected, designed and coded a system to import application rank data daily to allow statistical analysis aimed at determining the potential earnings of each application. The system was built on top of Google Cloud platform and used GWT to build the desktop site. Of the cloud platform technologies, we leveraged, App engine pull and push queues, Compute engine virtual machines, BigQuery, Cloud SQL, Cloud Storage and Cloud datastore for rapid access to data summaries and managing the pipeline API.
 I also helped with recruitment of various team members and accessing their progress. This, for me, was by far the hardest part of the role.
-2003-2011 Atos Origin UK Ltd. (now Atos) - Software engineer (junior - senior)
+###2003-2011 Atos Origin UK Ltd. (now Atos) - Software engineer (junior - senior)
 Worked on various projects related to the transport (rail) industry in various sized teams using a very wide range of technologies on various platforms ranging from servers (including visualisation using MS Virtual Server 2005) to portable devices. I later cross trained into Java after which I worked on various web projects for government organisations e.g. DEFRA and the DWP.
-
 ###2000-2001 BTexaCT - Industrial Placement Year (junior developer, intern)
 Worked on a project that aimed at the development of an FDD (frequency division duplex) capacity simulator for 3G mobile phone networks. Network technologies under consideration were W-CDMA and EDGE.
 ##Contracting
