@@ -1,8 +1,8 @@
 # William Shakour
 
-:see_no_evil:
+:see_no_evil: Road
 
-__Nottingham__ - :see_no_evil:
+Nottingham - __NG:see_no_evil:__
 
 __Nationality\:__ :see_no_evil:
 
@@ -21,11 +21,11 @@ __E-mail\:__ [william dot shakour at gmail dot com](mailto:... "Contact") or [wi
 ## Work Experience
 
 ###2011-Present [SPACEHOPPER STUDIOS Ltd.](http://www.spacehopperstudios.com) - Software engineer and co-Director
-I have worked on many projects mostly related to games and occasionally web projects in between to keep the company earning (which is part of the responsibility of having a company). I have written code in objective-c for iOS and C++ (using cocos2dx) as well as Java (using libgdx). Titles include Hollywood hospital, commissioned and written for Zed, Ka-Bloom, commissioned and written for the BBC and SPACEHOPPER STUDIOS’ very own title [Delta-V](http://www.deltavgame.com) which is available on Android and iOS. In the process I have coded a few tools to help aid level design, optimising assets among others (ask for details).
+I have worked on a few projects mostly related to game development, occasionally picking up web based projects in between. I have written code in Objective-C for iOS and C++ (using Cocos2dx) as well as Java (using libgdx). Titles include Hollywood hospital, commissioned and written for Zed, Ka-Bloom, commissioned and written for the BBC and SPACEHOPPER STUDIOS’ very own title [Delta-V](http://www.deltavgame.com) which is available on Android and iOS. In the process of developing these titles I have coded a few tools to help aid level design, optimising assets among others (ask for details).
 
 ### 2013-2015 [Reflection.io](http://www.reflection.io) - CTO and co-Founder
-Architected, designed and coded a system to import application rank data daily to allow statistical analysis aimed at determining the potential earnings of each application. The system was built on top of Google Cloud platform and used GWT to build the desktop site. Of the cloud platform technologies, we leveraged, App engine pull and push queues, Compute engine virtual machines, BigQuery, Cloud SQL, Cloud Storage and Cloud datastore for rapid access to data summaries and managing the pipeline API.
-I also helped with recruitment of various team members and accessing their progress. This, for me, was by far the hardest part of the role.
+Architected, designed and coded a system to import application rank data daily to allow statistical analysis aimed at determining the potential earnings of each application. The system was built on top of Google Cloud platform and uses GWT to build the desktop site. Cloud platform technologies used include App engine pull and push queues, Compute engine virtual machines, BigQuery, Cloud SQL, Cloud Storage and Cloud datastore for rapid access to data summaries and managing the pipeline API.
+I also helped with recruitment of members of the technical team and accessing their progress. This, for me, was by far the most challenging part of the role.
 
 ###2003-2011 Atos Origin UK Ltd. (now Atos) - Software engineer (junior - senior)
 Worked on various projects related to the transport (rail) industry in various sized teams using a very wide range of technologies on various platforms ranging from servers (including visualisation using MS Virtual Server 2005) to portable devices. I later cross trained into Java after which I worked on various web projects for government organisations e.g. DEFRA and the DWP.
