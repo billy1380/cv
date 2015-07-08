@@ -28,7 +28,7 @@ The project followed the agile methodology, delivering measurable progress using
 I also helped with recruitment of members of the technical team and accessing their progress. This, for me, was by far the most challenging part of the role.
 
 ###2011-Present [SPACEHOPPER STUDIOS Ltd.](http://www.spacehopperstudios.com) - Software engineer and co-Director
-I have worked on a few projects mostly related to game development, occasionally picking up web based projects in between. I have written code in Objective-C for iOS and C++ (using Cocos2dx) as well as Java (using libgdx). Titles include Hollywood hospital, commissioned and written for Zed, Ka-Bloom, commissioned and written for the BBC and SPACEHOPPER STUDIOS’ very own title [Delta-V](http://www.deltavgame.com) which is available on Android and iOS. In the process of developing these titles I have coded a few tools to help aid level design, optimising assets among others (ask for details). I also designed and developed the cloud saving and scores services that Delta-V uses to keep track of player progress, top scores and enable features like ghost racing even when players are offline.
+I have worked on a few projects mostly related to game development, occasionally picking up web based projects in between. I have written code in Objective-C for iOS and C++ (using Cocos2dx) as well as Java (using libgdx). Titles include Hollywood hospital (iOS), commissioned and written for Zed, Ka-Bloom (iOS and Android), commissioned and written for the BBC and SPACEHOPPER STUDIOS’ very own title [Delta-V](http://www.deltavgame.com) (iOS and Android). In the process of developing these titles I have coded a few tools to help aid level design, optimising assets among others (ask for details). I also designed and developed the cloud saving and scores services that Delta-V uses to keep track of player progress, top scores and enable features like ghost racing even when players are offline.
 
 ###2003-2011 Atos Origin UK Ltd. (now Atos) - Software engineer (junior - senior)
 Worked on various projects related to the transport (rail) industry in various sized teams using a very wide range of technologies on various platforms ranging from servers (including visualisation using MS Virtual Server 2005) to portable devices. I later cross trained into Java after which I worked on various web projects for government organisations e.g. DEFRA and the DWP.
@@ -52,12 +52,14 @@ __IGCSEs\:__
 __8__ subjects at grades __C (c)__ and above including Arabic, English and Maths.
 
 ##Skills
-- Proficient in Java and have used various frameworks (e.g. spring) to set up web projects. I have used SWT and am very experienced with GWT.
+- Proficient at developing iOS applications.
+- Proficient at developing Android applications.
+- Expert in Java and have used various frameworks (e.g. spring) to set up web projects. I have used SWT and am very experienced with GWT.
 - Proficient using Test driven development in Java and .NET via junit and nunit respectively.
-- Proficient in UML based OOD using tools such as MS Visio (for Visual Studio) and various other tools e.g. Eclipse modelling framework.
+- Proficient in UML based OOD using tools such as MS Visio (for Visual Studio) and various other tools e.g. Eclipse modelling framework, Argo UML etc.
 - Expert in developing web and Windows applications in C# and .NET framework (1.0 - 3.5). I also have MCPs in coding using C# and developing web applications. 
 - Proficient in SQL through use of different versions of MySQL as well as some experience with SQL server 2005.
-- Expert programming in C and C++ with windows programming (MFC and Borland Builder) including some knowledge of graphics written in OpenGL.
+- Expert programming in C and C++ with windows programming including some knowledge of graphics written in OpenGL.
 - Knowledge of other languages includes php (expert), javascript (proficient), HTML (proficient), python (basic knowlendge) and XML (including WSDL, SOAP etc.) obtained through work on various web projects.
 - Extensively used SVN and more recently Git for source control.
 - Extensive experience working in an Agile development environment.
