@@ -23,7 +23,7 @@ __E-mail\:__ [william dot shakour at gmail dot com](mailto:... "Contact") or [wi
 ### 2013-2015 [Reflection.io](http://www.reflection.io) - CTO and co-Founder
 Architected, designed and coded a system to import application rank data daily to allow statistical analysis aimed at determining the potential earnings of each application. The system was built on top of Google Cloud platform and uses GWT to build the desktop site. Cloud platform technologies used include App engine pull and push queues, Compute engine virtual machines, BigQuery, Cloud SQL, Cloud Storage and Cloud datastore for rapid access to data summaries and managing the pipeline API.
 
-The project followed the agile methodology, delivering measurable progress using sprints of 2-4 weeks and traking progress via [trello](https://trello.com/).
+The project followed the agile methodology, delivering measurable progress using 2 week sprints and tracking progress via [trello](https://trello.com/). The team was distributed (between London and Nottingham) and communicated over either Skype or Hangouts.
 
 I also helped with recruitment of members of the technical team and accessing their progress. This, for me, was by far the most challenging part of the role.
 
@@ -60,9 +60,9 @@ __8__ subjects at grades __C (c)__ and above including Arabic, English and Maths
 - Expert in developing web and Windows applications in C# and .NET framework (1.0 - 3.5). I also have MCPs in coding using C# and developing web applications. 
 - Proficient in SQL through use of different versions of MySQL as well as some experience with SQL server 2005.
 - Expert programming in C and C++ with windows programming including some knowledge of graphics written in OpenGL.
-- Knowledge of other languages includes php (expert), javascript (proficient), HTML (proficient), python (basic knowlendge) and XML (including WSDL, SOAP etc.) obtained through work on various web projects.
+- Knowledge of other languages includes php (expert), javascript (proficient), HTML (proficient), python (basic knowledge) and XML (including WSDL, SOAP etc.) obtained through work on various web projects.
 - Extensively used SVN and more recently Git for source control.
-- Extensive experience working in an Agile development environment.
+- Extensive experience working in an Agile development environment using both [Trello](https://www.trello.com) and [Jira](https://www.atlassian.com/software/jira).
 
 I have worked with PHP on a LAMP stack for a long time but these days my preferred setup of choice is the lovely no config App Engine environment.
 
