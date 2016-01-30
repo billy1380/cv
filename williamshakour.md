@@ -20,6 +20,9 @@ __E-mail\:__ [william dot shakour at gmail dot com](mailto:... "Contact") or [wi
 
 ## Work Experience
 
+### 2015-Present - Contractor iOS Developer
+Designing and developing iOS applications which require web service backends as well as a usable disconnected experience. I have been using my experience with REST and RESTful services to help with the integration process. I have also been working on the Core Data layer of the application which persists some of the user data so it can be recalled even when the application is offline.
+
 ### 2013-2015 [Reflection.io](http://www.reflection.io) - CTO and co-Founder
 Architected, designed and coded a system to import application rank data daily to allow statistical analysis aimed at determining the potential earnings of each application. The system was built on top of Google Cloud platform and uses GWT to build the desktop site. Cloud platform technologies used include App engine pull and push queues, Compute engine virtual machines, BigQuery, Cloud SQL, Cloud Storage and Cloud datastore for rapid access to data summaries and managing the pipeline API.
 
@@ -27,7 +30,7 @@ The project followed the agile methodology, delivering measurable progress using
 
 I also helped with recruitment of members of the technical team and accessing their progress. This, for me, was by far the most challenging part of the role.
 
-###2011-Present [SPACEHOPPER STUDIOS Ltd.](http://www.spacehopperstudios.com) - Software engineer and co-Director
+###2011-2013 [SPACEHOPPER STUDIOS Ltd.](http://www.spacehopperstudios.com) - Software engineer and co-Director
 I have worked on a few projects mostly related to game development, occasionally picking up web based projects in between. I have written code in Objective-C for iOS and C++ (using Cocos2dx) as well as Java (using libgdx). Titles include Hollywood hospital (iOS), commissioned and written for Zed, Ka-Bloom (iOS and Android), commissioned and written for the BBC and SPACEHOPPER STUDIOS’ very own title [Delta-V](http://www.deltavgame.com) (iOS and Android). In the process of developing these titles I have coded a few tools to help aid level design, optimising assets among others (ask for details). I also designed and developed the cloud saving and scores services that Delta-V uses to keep track of player progress, top scores and enable features like ghost racing even when players are offline.
 
 ###2003-2011 Atos Origin UK Ltd. (now Atos) - Software engineer (junior - senior)
