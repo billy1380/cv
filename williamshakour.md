@@ -20,7 +20,12 @@ __E-mail\:__ [william dot shakour at gmail dot com](mailto:... "Contact") or [wi
 
 ## Work Experience
 
-### 2015-Present - Contractor iOS Developer
+### 2017-Present - Contractor
+
+### 2016-2017 - [Puzzle London](http://puzzlelondon.com) - CTO
+Architected, designed and developed web applications with mobile and web clients in mind. I was also in charge of the guidance and development of all (6) technical staff (wp - php, android - java, iOS - swift and objective-c).
+
+### 2015-2016 - Contractor iOS Developer
 Designing and developing iOS applications which require web service backends as well as a usable disconnected experience. I have been using my experience with REST and RESTful services to help with the integration process. I have also been working on the Core Data layer of the application which persists some of the user data so it can be recalled even when the application is offline.
 
 ### 2013-2015 [Reflection.io](http://www.reflection.io) - CTO and co-Founder
@@ -30,31 +35,31 @@ The project followed the agile methodology, delivering measurable progress using
 
 I also helped with recruitment of members of the technical team and accessing their progress. This, for me, was by far the most challenging part of the role.
 
-###2011-2013 [SPACEHOPPER STUDIOS Ltd.](http://www.spacehopperstudios.com) - Software engineer and co-Director
+### 2011-2013 [SPACEHOPPER STUDIOS Ltd.](http://www.spacehopperstudios.com) - Software engineer and co-Director
 I have worked on a few projects mostly related to game development, occasionally picking up web based projects in between. I have written code in Objective-C for iOS and C++ (using Cocos2dx) as well as Java (using libgdx). Titles include Hollywood hospital (iOS), commissioned and written for Zed, Ka-Bloom (iOS and Android), commissioned and written for the BBC and SPACEHOPPER STUDIOS’ very own title [Delta-V](http://www.deltavgame.com) (iOS and Android). In the process of developing these titles I have coded a few tools to help aid level design, optimising assets among others (ask for details). I also designed and developed the cloud saving and scores services that Delta-V uses to keep track of player progress, top scores and enable features like ghost racing even when players are offline.
 
-###2003-2011 Atos Origin UK Ltd. (now Atos) - Software engineer (junior - senior)
+### 2003-2011 Atos Origin UK Ltd. (now Atos) - Software engineer (junior - senior)
 Worked on various projects related to the transport (rail) industry in various sized teams using a very wide range of technologies on various platforms ranging from servers (including visualisation using MS Virtual Server 2005) to portable devices. I later cross trained into Java after which I worked on various web projects for government organisations e.g. DEFRA and the DWP.
 
-###2000-2001 BTexaCT - Industrial Placement Year (junior developer, intern)
+### 2000-2001 BTexaCT - Industrial Placement Year (junior developer, intern)
 Worked on a project that aimed at the development of an FDD (frequency division duplex) capacity simulator for 3G mobile phone networks. Network technologies under consideration were W-CDMA and EDGE.
 
-##Contracting
+## Contracting
 I am available for contract work via [WillShex Limited](https://www.willshex.com).
 
-##Education
+## Education
 
-###1998-2002 UMIST (now University of Manchester) - Software Engineering with Industrial Experience - Attained 1st.
+### 1998-2002 UMIST (now University of Manchester) - Software Engineering with Industrial Experience - Attained 1st.
 My university course covered quite a broad set of subjects related to computers and software development such as computer science, IT laws and data protection, Human interface design and concurrent programming languages. It also included a year in industry that I spent working for BTexaCT.
 
-###1992-1998 Unity High School in Khartoum
+### 1992-1998 Unity High School in Khartoum
 __A-levels\:__
 AS-Maths __A (a)__, Chemistry __B (b)__, Math __B (b)__ and Physics __B (b)__
 
 __IGCSEs\:__
 __8__ subjects at grades __C (c)__ and above including Arabic, English and Maths.
 
-##Skills
+## Skills
 - Proficient at developing iOS applications.
 - Proficient at developing Android applications.
 - Expert in Java and have used various frameworks (e.g. spring) to set up web projects. I have used SWT and am very experienced with GWT.
@@ -72,7 +77,7 @@ I have worked with PHP on a LAMP stack for a long time but these days my preferr
 ###Interests and Activities
 I enjoy some sports mainly basketball, table tennis and swimming, although I don’t do much of any of those any more. For a few years now, I have mostly been reading/writing code and any remaining time I have has been taken over by other technology interests like playing with Blender, OpenSCAD, sketching and keeping up with developments in DIY 3D printers.
 
-##Social
+## Social
 __Github\:__ [https://github.com/billy1380](https://github.com/billy1380 "William Shakour on Github")
 
 __G+\:__ [https://plus.google.com/+WilliamShakour](https://plus.google.com/+WilliamShakour "William Shakour on G+")
