@@ -21,6 +21,7 @@ __E-mail\:__ [william dot shakour at gmail dot com](mailto:... "Contact") or [wi
 ## Work Experience
 
 ### 2017-Present - Contractor
+Designed and built APIs and web management systems for Qure (now [Qured](http://qured.com/)) on app engine for scalability. The APIs are used by the management system and the Android and iOS mobile apps for both patients and practitioners.
 
 ### 2016-2017 - [Puzzle London](http://puzzlelondon.com) - CTO
 Architected, designed and developed web applications with mobile and web clients in mind. I was also in charge of the guidance and development of all (6) technical staff (wp - php, android - java, iOS - swift and objective-c).
