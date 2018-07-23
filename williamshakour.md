@@ -75,8 +75,12 @@ __8__ subjects at grades __C (c)__ and above including Arabic, English and Maths
 
 I have worked with PHP on a LAMP stack for a long time but these days my preferred setup of choice is the lovely no config App Engine environment.
 
-###Interests and Activities
-I enjoy some sports mainly basketball, table tennis and swimming, although I don’t do much of any of those any more. For a few years now, I have mostly been reading/writing code and any remaining time I have has been taken over by other technology interests like playing with Blender, OpenSCAD, sketching and keeping up with developments in DIY 3D printers.
+### Interests and Activities
+I enjoy playing table tennis regularly, it is great fun.
+
+More recently I have developed an interest for fountain pens and started collecting some. 
+
+For a few years now, I have mostly been reading/writing code and any remaining time I have has been taken over by other technology interests like playing with Blender, OpenSCAD, sketching and keeping up with developments in DIY 3D printers.
 
 ## Social
 __Github\:__ [https://github.com/billy1380](https://github.com/billy1380 "William Shakour on Github")
