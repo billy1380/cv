@@ -20,8 +20,24 @@ __E-mail\:__ [william dot shakour at gmail dot com](mailto:... "Contact") or [wi
 
 ## Work Experience
 
+### 2019-Present Contracting - X-Platform Software Engineer
+I have been working with companies trying to launch their apps on multiple platforms (Android and iOS) at the same time using Flutter.
+
+The latest project has been the [Train Wright app](https://apps.apple.com/lv/app/train-wright/id1549546871) which launched in 2021. Both the mobile app and the admin system were written in Flutter. Both utilising Firebase and run on mobile, desktop and in the browser.
+
+### 2018-2019 [NUM](https://www.num.uk/) - Software Engineer
+As a software engineer I worked on the platform's Dart and JS SDKs. I also created a web demo app in VueJS and a Flutter based browser plugin to show capabilities and speed of the protocol.
+
+### 2017-2018 [Reducer](https://reducer.co.uk/) - Software Engineer
+As a Software engineer I worked on creating the Reducer API using swagger on top of AWS and migrating JSP pages to VueJS app using the new API. I also worked on the integration with Quickbooks API.
+
+### 2016-2017 - [Puzzle London](https://puzzlelondon.com/) - CTO
+Worked on various projects. Roles included solution architechture, building server APIs, web and mobile apps. I also build out the development team interviewing and hiring candidates for the team.
+
 ###2011-Present [SPACEHOPPER STUDIOS Ltd.](http://www.spacehopperstudios.com) - Software engineer and co-Director
 I have worked on many projects mostly related to games and occasionally web projects in between to keep the company earning (which is part of the responsibility of having a company). I have written code in objective-c for iOS and C++ (using cocos2dx) as well as Java (using libgdx). Titles include Hollywood hospital, commissioned and written for Zed, Ka-Bloom, commissioned and written for the BBC and SPACEHOPPER STUDIOS’ very own title [Delta-V](http://www.deltavgame.com) which is available on Android and iOS. In the process I have coded a few tools to help aid level design, optimising assets among others (ask for details).
+
+We are working our latest mobile game right now!
 
 ### 2013-2015 [Reflection.io](http://www.reflection.io) - CTO and co-Founder
 Architected, designed and coded a system to import application rank data daily to allow statistical analysis aimed at determining the potential earnings of each application. The system was built on top of Google Cloud platform and used GWT to build the desktop site. Of the cloud platform technologies, we leveraged, App engine pull and push queues, Compute engine virtual machines, BigQuery, Cloud SQL, Cloud Storage and Cloud datastore for rapid access to data summaries and managing the pipeline API.
@@ -49,18 +65,20 @@ __IGCSEs\:__
 __8__ subjects at grades __C (c)__ and above including Arabic, English and Maths.
 
 ##Skills
-- Proficient in Java and have used various frameworks (e.g. spring) to set up web projects. I have used SWT and am very experienced with GWT.
+- Proficient in Dart (used Flutter quite extensively)
+- Proficient in Java (up to v11)
 - Proficient in UML based OOD using tools such as MS Visio (for Visual Studio) and various other tools e.g. Eclipse modelling framework.
-- Expert in developing web and Windows applications in C# and .NET framework (1.0 - 3.5). I also have MCPs in coding using C# and developing web applications. 
-- Proficient in SQL through use of different versions of MySQL as well as some experience with SQL server 2005.
-- Expert programming in C and C++ with windows programming (MFC and Borland Builder) including some knowledge of graphics written in OpenGL.
-- Knowledge of other languages includes php (expert), javascript (proficient) HTML (proficient) and XML (including WSDL, SOAP etc.) obtained through work on various web projects.
-- Extensively used SVN and more recently Git for source control.
+- Some knowledget of C# and .NET framework (1.0 - 3.5). I also have MCPs in coding using C# and developing web applications. 
+- Proficient in SQL through use of different versions of MySQL.
+- Expert programming in C and C++ including some knowledge of graphics written in OpenGL.
+- Knowledge of other languages includes php (expert), javascript (proficient) HTML an CSS (proficient) and XML (including WSDL, SOAP etc.) obtained through work on various web projects.
+- Proficient in JS
+- Extensive experience with Git for source control (and Git flow).
 
 I have worked with PHP on a LAMP stack for a long time but these days my preferred setup of choice is the lovely no config App Engine environment.
 
 ###Interests and Activities
-I enjoy some sports mainly basketball, table tennis and swimming, although I don’t do much of any of those any more. For a few years now, I have mostly been reading/writing code and any remaining time I have has been taken over by other technology interests like playing with Blender, OpenSCAD, sketching and keeping up with developments in DIY 3D printers.
+For a few years now, I have mostly been reading/writing code and any remaining time I have has been taken over by other technology interests like playing with Blender, OpenSCAD, sketching and keeping up with developments in DIY 3D printers. I also 3D print fountain pens - [pictures on Instagram](https://www.instagram.com/williamshakour/).
 
 ##Social
 __Github\:__ [https://github.com/billy1380](https://github.com/billy1380 "William Shakour on Github")
