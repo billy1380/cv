@@ -32,7 +32,7 @@ As a software engineer I worked on the platform's Dart and JS SDKs. I also creat
 As a Software engineer I worked on creating the Reducer API using swagger on top of AWS and migrating JSP pages to VueJS app using the new API. I also worked on the integration with Quickbooks API.
 
 ### 2016-2017 - [Puzzle London](https://puzzlelondon.com/) - CTO
-Worked on various projects. Roles included solution architechture, building server APIs, web and mobile apps. I also build out the development team interviewing and hiring candidates for the team.
+Worked on various projects. Roles included solution architecture, building server APIs, web and mobile apps. I also build out the development team interviewing and hiring candidates for the team.
 
 ### 2011-Present [SPACEHOPPER STUDIOS Ltd.](http://www.spacehopperstudios.com) - Software engineer and co-Director
 I have worked on many projects mostly related to games and occasionally web projects in between to keep the company earning (which is part of the responsibility of having a company). I have written code in objective-c for iOS and C++ (using cocos2dx) as well as Java (using libgdx). Titles include Hollywood hospital, commissioned and written for Zed, Ka-Bloom, commissioned and written for the BBC and SPACEHOPPER STUDIOS’ very own title [Delta-V](http://www.deltavgame.com) which is available on Android and iOS. In the process I have coded a few tools to help aid level design, optimising assets among others (ask for details).
