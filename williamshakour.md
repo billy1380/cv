@@ -66,6 +66,8 @@ __8__ subjects at grades __C (c)__ and above including Arabic, English and Maths
 
 ##Skills
 - Proficient in Dart (used Flutter quite extensively)
+- Proficient at developing iOS applications.
+- Proficient at developing Android applications.
 - Proficient in Java (up to v11)
 - Proficient in UML based OOD using tools such as MS Visio (for Visual Studio) and various other tools e.g. Eclipse modelling framework.
 - Some knowledget of C# and .NET framework (1.0 - 3.5). I also have MCPs in coding using C# and developing web applications. 
@@ -78,7 +80,7 @@ __8__ subjects at grades __C (c)__ and above including Arabic, English and Maths
 I have worked with PHP on a LAMP stack for a long time but these days my preferred setup of choice is the lovely no config App Engine environment.
 
 ###Interests and Activities
-For a few years now, I have mostly been reading/writing code and any remaining time I have has been taken over by other technology interests like playing with Blender, OpenSCAD, sketching and keeping up with developments in DIY 3D printers. I also 3D print fountain pens - [pictures on Instagram](https://www.instagram.com/williamshakour/).
+For a few years now, I have mostly been reading/writing code and any remaining time I have has been taken over by other technology interests like playing with Blender, OpenSCAD, sketching and keeping up with developments in DIY 3D printers. After developing an interest in collecting fountain pens I now 3D print fountain pens and occasionally sell them - [pictures on Instagram](https://www.instagram.com/williamshakour/).
 
 ##Social
 __Github\:__ [https://github.com/billy1380](https://github.com/billy1380 "William Shakour on Github")
