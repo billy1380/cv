@@ -85,8 +85,6 @@ For a few years now, I have mostly been reading/writing code and any remaining t
 ## Social
 __Github\:__ [https://github.com/billy1380](https://github.com/billy1380 "William Shakour on Github")
 
-__G+\:__ [https://plus.google.com/+WilliamShakour](https://plus.google.com/+WilliamShakour "William Shakour on G+")
-
 __Twitter\:__ [https://twitter.com/williamshakour](https://twitter.com/williamshakour "William Shakour on Twitter")
 
 __Bitbucket\:__ [https://bitbucket.org/billy1380](https://bitbucket.org/billy1380 "William Shakour on BitBucket")
